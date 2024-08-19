@@ -44,7 +44,7 @@ This project is a Python-based automated penetration testing tool designed to st
 
 1. Run the script:
     ```bash
-    python script_name.py
+    python scanner.py
     ```
 
 2. Enter the target IP address or domain when prompted.
