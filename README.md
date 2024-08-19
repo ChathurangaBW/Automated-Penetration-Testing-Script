@@ -27,7 +27,7 @@ This project is a Python-based automated penetration testing tool designed to st
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/automated-penetration-testing.git
+    git clone https://github.com/ChathurangaBW/Automated-Penetration-Testing-Script.git
     cd automated-penetration-testing
     ```
 
