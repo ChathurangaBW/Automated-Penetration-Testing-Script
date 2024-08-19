@@ -37,9 +37,9 @@ This project is a Python-based automated penetration testing tool designed to st
     ```
 
 3. Ensure that all the external tools (`whois`, `nmap`, etc.) are installed and accessible in your system's PATH.
-   
-sudo apt-get install whois dnsutils fierce nmap nikto dirb hydra zaproxy
-
+    ```bash
+   sudo apt-get install whois dnsutils fierce nmap nikto dirb hydra zaproxy
+    ```
 ## Usage
 
 1. Run the script:
